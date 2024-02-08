@@ -1,7 +1,7 @@
----------- Projet Portefolio 2024 ----------
----------- Baptiste Soulier B2A ----------
----------- Cours D'UX Design ----------
----------- Sans Template ----------
+Projet Portefolio 2024 ----------
+Baptiste Soulier B2A ----------
+Cours D'UX Design ----------
+Sans Template ----------
 
 Langages :
 
