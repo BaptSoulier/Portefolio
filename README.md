@@ -13,7 +13,7 @@ Langages :
 
 Sources : 
 
- AOS : https://michalsnik.github.io/aos/
- ChatGPT
- Connaissances
- Bootstrap : https://getbootstrap.com/
+- AOS : https://michalsnik.github.io/aos/
+- ChatGPT
+- Connaissances
+- Bootstrap : https://getbootstrap.com/
